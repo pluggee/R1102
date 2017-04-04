@@ -1,0 +1,16 @@
+R1102-F.Cu.gbr        Front (Top) layer copper
+R1102-In1.Cu.gbr      Inner 1 layer copper
+R1102-In2.Cu.gbr      Inner 2 layer copper
+R1102-F.Adhes.gbr     Front (Top) layer adhesive
+R1102-B.Cu.gbr        Back (Bottom) layer copper
+R1102-F.Paste.gbr     Front (Top) Solder Paste
+R1102-B.Paste.gbr     Back (Bottom) Solder Paste
+R1102-B.SilkS.gbr     Back (Bottom) Silk Screen
+R1102-F.SilkS.gbr     Front (Top) Silk Screen
+R1102-F.Mask.gbr      Front (Top) Solder Mask
+R1102-B.Mask.gbr      Back (Bottom) Solder Mask
+R1102-Edge.Cuts.gbr   Edge Cut (routing cut)
+R1102-NPTH.drl        Non-Plated through hole drills
+R1102.drl             Plated through hole drills
+R1102-top.pos         Front (Top) component position file (SMT assembly)
+R1102-bot.pos         Back (Bottom) component position file (SMT assembly)
